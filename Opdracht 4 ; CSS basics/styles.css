@@ -1,0 +1,64 @@
+.headerlayout {
+    background-color: rgb(187, 191, 196);
+    color: rgb(46, 95, 241);
+
+    font-family: 'Times New Roman', Times,
+         serif;
+         font-size: 40px;
+         font-weight: normal;
+
+         text-align: center;
+
+}
+
+#fancydots {
+    color: springgreen;
+}
+
+#Red {
+    color: red;
+}
+
+p {
+    color: black;
+    font-family: Arial, Helvetica, 
+         sans-serif;
+         font-size: 15px;
+         font-weight: bolder;
+
+         line-height: 1.4em;  
+
+}
+
+.black-border {
+    border-left: 5px solid yellow;
+    border-right: 5px solid yellow;
+    border-top: 5px solid black;
+    border-bottom: 5px solid black;
+}
+
+#redborder {
+    color: red;
+    border: red solid 5px;
+}
+
+.aboutmepage {
+     background-color: aquamarine;
+     color: brown;
+
+     font-family: 'Ranchers', cursive;
+           font-size: 25px;
+           font-weight: lighter;
+
+        line-height: 1.6em;
+}
+
+.stamp {
+	width: 500px;
+	height: 414px;
+    background: #fff url(George_Washington.jpg) no-repeat ;
+    background-size: cover;
+    border: 12px dashed #1b1a19; 
+    text-align: right;
+     
+}
